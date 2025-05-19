@@ -5,6 +5,7 @@
 Cursando ciência da computação | (UTP) 5° periodo\
 Tenho 20 anos\
 
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ZukerSz&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117" alt="Iuker Souza github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZukerSz&layout=compact&hide_border=true&title_color=FFFF00&text_color=00BFFF&bg_color=0d1117" />
