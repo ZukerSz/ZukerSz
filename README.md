@@ -2,8 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
 ## Opa! Meu nome é Iuker
-Cursando ciência da computação | (UTP) 5° periodo\
 Tenho 20 anos\
+Cursando ciência da computação | (UTP) 5° periodo
 
 
 <div align="center">  
