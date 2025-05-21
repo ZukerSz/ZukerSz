@@ -3,7 +3,7 @@
 
 ## Opa! Meu nome é Iuker
 Tenho 20 anos\
-Cursando ciência da computação | (UTP) 5° periodo
+Cursando Ciência da Computação | (UTP) 5° periodo
 
 
 <div align="center">  
