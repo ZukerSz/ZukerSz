@@ -68,3 +68,7 @@ Atualmente estou aprofundando meus conhecimentos em **plataformas SAP voltadas p
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
+
+### 📫 Conecte-se comigo:
+[<img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/iukersouza/)
+
