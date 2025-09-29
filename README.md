@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
 ### 💻 Sobre Mim 💻
-Sou um estudante de **Ciência da Computação** vivendo nesse mundo da tecnologia e programação. Atualmente, estou focado em expandir meus conhecimentos em **análise de dados**. Minhas principais áreas de exploração incluem **Banco de Dados** com SQL Server e **desenvolvimento Back-end** com Python.
+Sou um estudante de **Ciência da Computação** vivendo nesse mundo da tecnologia e programação. Atualmente, estou focado em expandir meus conhecimentos em **análise de dados**. Minhas principais áreas de exploração incluem **Banco de Dados** com SQL Server e **desenvolvimento Back-end** com Python. Atualmente Desenvolvendo habilidades em SAP.
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Iuker+Souza;Tenho+20+Anos;E+atualmente+estou+cursando+Ciência+da+Computação!)](https://git.io/typing-svg)
