@@ -2,10 +2,12 @@
 
 ### 💻 Sobre Mim 💻
 Estudante de Ciência da Computação com foco em Análise de Dados. Desenvolvendo projetos em Back-end com Python e Banco de Dados com SQL. Atualmente aprimorando habilidades em SAP.
+
 🎓 Estudante de Ciência da Computação
 📊 Foco em Análise de Dados & Back-end
 💻 Python | SQL Server
 🌱 Aprendendo SAP
+
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Iuker+Souza;Tenho+20+Anos;E+atualmente+estou+cursando+Ciência+da+Computação!)](https://git.io/typing-svg)
 
