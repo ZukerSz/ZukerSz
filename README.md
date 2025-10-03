@@ -13,7 +13,6 @@
 <p>Minha experiência prática está centrada no <strong>ecossistema SAP</strong>, com habilidades em <strong>SAP ABAP</strong>, <strong>SAP Datasphere</strong>, <strong>SAP SAC</strong> e <strong>SAP CAP</strong>. Adicionalmente, possuo uma base sólida em desenvolvimento <strong>Back-end com Python</strong> e <strong>bancos de dados com SQL</strong>, o que me permite criar soluções de dados mais completas.</p>
 </div>
 
-### Conecte-se Comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/iukersouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
