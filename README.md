@@ -9,9 +9,8 @@
 ### Sobre Mim
 <div align="center">
   
-<p>Estudante de <strong>Ciência da Computação</strong> com foco em <strong>Análise de Dados</strong>, atualmente atuando principalmente com soluções do <strong>ecossistema SAP</strong>.</p>
-<p>Minha experiência prática abrange o desenvolvimento <strong>Back-end com Python</strong>, bancos de dados relacionais com <strong>SQL</strong> e diversas ferramentas SAP, como <strong>SAP ABAP</strong>, <strong>SAP Datasphere</strong>, <strong>SAP SAC</strong> e <strong>SAP CAP</strong>. Estou constantemente aprofundando meus conhecimentos para integrar habilidades de engenharia de dados, desenvolvimento e BI.</p>
-
+<p>Estudante de <strong>Ciência da Computação</strong> e Desenvolvedor focado no ecossistema <strong>SAP</strong> e <strong>Análise de Dados</strong>.</p>
+<p>Minha experiência prática está centrada no <strong>ecossistema SAP</strong>, com habilidades em <strong>SAP ABAP</strong>, <strong>SAP Datasphere</strong>, <strong>SAP SAC</strong> e <strong>SAP CAP</strong>. Adicionalmente, possuo uma base sólida em desenvolvimento <strong>Back-end com Python</strong> e <strong>bancos de dados com SQL</strong>, o que me permite criar soluções de dados mais completas.</p>
 </div>
 
 ### Conecte-se Comigo
@@ -30,6 +29,7 @@
   
   <h4>Ecossistema SAP</h4>
   <p>
+    <img src="https://img.shields.io/badge/SAP%20GUI%20/%20Logon-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GUI">
     <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP">
     <img src="https://img.shields.io/badge/SAP%20Datasphere-001e4e?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Datasphere">
     <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-1E1E1E?style=for-the-badge&logo=sap&logoColor=white" alt="SAP SAC">
@@ -39,20 +39,20 @@
   <h4>Linguagens</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts" />
     </a>
   </p>
 
   <h4>Frameworks</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,flask,django,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=flask,django,bootstrap" />
     </a>
   </p>
     
   <h4>Bancos de Dados</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="Microsoft SQL Server"/>
   </p>
 
