@@ -6,18 +6,18 @@
 
 </div>
 
-### Sobre Mim
-<div align="center">
-  
+</div>
+
+### 👨‍💻 Sobre Mim
+
 <p>Estudante de <strong>Ciência da Computação</strong> e Desenvolvedor focado no ecossistema <strong>SAP</strong> e <strong>Análise de Dados</strong>.</p>
 <p>Minha experiência prática está centrada no <strong>ecossistema SAP</strong>, com habilidades em <strong>SAP ABAP</strong>, <strong>SAP Datasphere</strong>, <strong>SAP SAC</strong> e <strong>SAP CAP</strong>. Adicionalmente, possuo uma base sólida em desenvolvimento <strong>Back-end com Python</strong> e <strong>bancos de dados com SQL</strong>, o que me permite criar soluções de dados mais completas.</p>
-</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/iukersouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/iukersouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-### GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZukerSz&show_icons=true&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117" alt="Iuker Souza GitHub stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZukerSz&layout=compact&theme=dracula&hide_border=true&title_color=FFFF00&text_color=00BFFF&bg_color=0d1117&langs_count=8" />
