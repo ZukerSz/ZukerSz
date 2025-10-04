@@ -8,7 +8,7 @@
 
 </div>
 
-### 👨‍💻 Sobre Mim
+### 💻 Sobre Mim
 
 <p>Estudante de <strong>Ciência da Computação</strong> e Desenvolvedor focado no ecossistema <strong>SAP</strong> e <strong>Análise de Dados</strong>.</p>
 <p>Minha experiência prática está centrada no <strong>ecossistema SAP</strong>, com habilidades em <strong>SAP ABAP</strong>, <strong>SAP Datasphere</strong>, <strong>SAP SAC</strong> e <strong>SAP CAP</strong>. Adicionalmente, possuo uma base sólida em desenvolvimento <strong>Back-end com Python</strong> e <strong>bancos de dados com SQL</strong>, o que me permite criar soluções de dados mais completas.</p>
