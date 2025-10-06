@@ -1,26 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Iuker+Souza;Tenho+20+Anos;E+atualmente+estou+cursando+Ciência+da+Computação!)](https://git.io/typing-svg)
-
-</div>
+<h3>Opa! Meu nome é Iuker Souza.</h3>
+<p>Tenho 20 anos e atualmente estou cursando Ciência da Computação!</p>
 
 </div>
 
 ### 💻 Sobre Mim
 
-<p>Estudante de <strong>Ciência da Computação</strong> e Desenvolvedor focado no ecossistema <strong>SAP</strong> e <strong>Análise de Dados</strong>.</p>
+<p>Desenvolvedor focado no ecossistema <strong>SAP</strong> e <strong>Análise de Dados</strong>.</p>
 <p>Minha experiência prática está centrada no <strong>ecossistema SAP</strong>, com habilidades em <strong>SAP ABAP</strong>, <strong>SAP Datasphere</strong>, <strong>SAP SAC</strong> e <strong>SAP CAP</strong>. Adicionalmente, possuo uma base sólida em desenvolvimento <strong>Back-end com Python</strong> e <strong>bancos de dados com SQL</strong>, o que me permite criar soluções de dados mais completas.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/iukersouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZukerSz&show_icons=true&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117" alt="Iuker Souza GitHub stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZukerSz&layout=compact&theme=dracula&hide_border=true&title_color=FFFF00&text_color=00BFFF&bg_color=0d1117&langs_count=8" />
 </div>
 
 ### ⚙️ Tecnologias que Utilizo
@@ -64,7 +55,12 @@
   
 </div>
 
+### 📊 GitHub Stats
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZukerSz&show_icons=true&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117" alt="Iuker Souza GitHub stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZukerSz&layout=compact&theme=dracula&hide_border=true&title_color=FFFF00&text_color=00BFFF&bg_color=0d1117&langs_count=8" />
+</div>
+
 ### Atividade no GitHub
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZukerSz&bg_color=0d1117&color=00bfff&line=8000ff&point=fbff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
