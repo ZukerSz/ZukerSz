@@ -29,7 +29,7 @@
   <h4>Linguagens</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,nodejs" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,ts,nodejs" />
     </a>
   </p>
 
