@@ -29,7 +29,7 @@
   <h4>Linguagens</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,nodejs" />
     </a>
   </p>
 
@@ -60,12 +60,5 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZukerSz&show_icons=true&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117" alt="Iuker Souza GitHub stats"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZukerSz&layout=compact&theme=dracula&hide_border=true&title_color=FFFF00&text_color=00BFFF&bg_color=0d1117&langs_count=8" />
 </div>
-
-### Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZukerSz&bg_color=0d1117&color=ffffff&line=a020f0&point=ffffff&area=true&hide_border=true" alt="Gráfico de Contribuições do GitHub"/>
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
