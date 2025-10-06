@@ -63,4 +63,9 @@
 
 ### Atividade no GitHub
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZukerSz&bg_color=0d1117&color=ffffff&line=a020f0&point=ffffff&area=true&hide_border=true" alt="Gráfico de Contribuições do GitHub"/>
+</div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
