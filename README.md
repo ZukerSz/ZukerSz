@@ -15,7 +15,7 @@
 </div>
 
 ### ⚙️ Tecnologias que Utilizo
-<div align="center">
+<div align="left">
   
   <h4>Ecossistema SAP</h4>
   <p>
