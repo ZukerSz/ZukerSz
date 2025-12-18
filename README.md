@@ -49,7 +49,7 @@
   <h4>Ferramentas & Plataformas</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,pycharm,eclipse,git,postman" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,postman" />
     </a>
   </p>
   
