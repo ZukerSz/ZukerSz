@@ -55,8 +55,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZukerSz&show_icons=true&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117" alt="Iuker Souza GitHub stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117"/>
+  </a>
   
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true&title_color=FFFF00&icon_color=FF1493&text_color=00BFFF&bg_color=0d1117"/>
+  </a>
 </div>
   
 </div>
