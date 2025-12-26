@@ -19,6 +19,7 @@
   
   <h4>Ecossistema SAP</h4>
   <p>
+    <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP S/4HANA">
     <img src="https://img.shields.io/badge/SAP%20GUI%20/%20Logon-0078D4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GUI">
     <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP ABAP">
     <img src="https://img.shields.io/badge/SAP%20Datasphere-001e4e?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Datasphere">
